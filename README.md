@@ -1,26 +1,11 @@
-## Hi there 👋
 
-<!--
-**brijjadon/brijjadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m [Brij Mohan Singh]
 
 🔧 I’m currently working on cool DevOps & cloud tools.
 
 🌱 I’m learning Docker, Kubernetes, and CI/CD pipelines.
 
-📫 Reach me at: [your_email@example.com]
+📫 Reach me at: [brijjadon7566@gmai.com]
 
 ## 🚀 Tools I Use
 
