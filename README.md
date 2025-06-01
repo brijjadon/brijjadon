@@ -19,4 +19,4 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)
