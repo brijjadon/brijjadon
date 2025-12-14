@@ -30,17 +30,7 @@ and working with modern DevOps & cloud-native tools.
   </a>
 </p>
 
-----
 
-<h3 align="center">🤝 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brij-mohan-singh-731587a2/">LinkedIn</a> •
-  <a href="https://github.com/brijjadon">GitHub</a> •
-  <a href="mailto:brijjadon7566@gmail.com">Email</a>
-</p>
-
----------
 
 
 💼 **Open to Cloud / DevOps / Platform Engineering opportunities**
